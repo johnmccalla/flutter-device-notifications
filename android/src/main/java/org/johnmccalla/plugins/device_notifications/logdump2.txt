@@ -1,0 +1,1029 @@
+Launching lib\main.dart on Pixel 3 in release mode...
+Note: D:\Projects\audio-notifications\device_notifications\android\src\main\java\org\johnmccalla\plugins\device_notifications\DeviceNotificationsService.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Calling mockable JAR artifact transform to create file: C:\Users\John\.gradle\caches\transforms-1\files-1.1\android.jar\be8d0991e3e7171876b83321b9293aaf\android.jar with input C:\Users\John\AppData\Local\Android\sdk\platforms\android-28\android.jar
+Built build\app\outputs\apk\release\app-release.apk (5.5MB).
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{5b7bcbb com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640119122,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.title": "Play security information update",
+I/flutter (20176):     "android.infoText": "0%",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{e5e85d8 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "false"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640119122,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{816fd31 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640121442,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{7d4ec16 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640121442,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{49b6997 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640121442,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.title": "Play security information update",
+I/flutter (20176):     "android.infoText": "0%",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{2222784 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "false"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640121442,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{4ad3b6d com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640126766,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.title": "Play security information update",
+I/flutter (20176):     "android.infoText": "0%",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{92bb3a2 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "false"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640126766,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+I/flutter (20176): Adding card -2147483628
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Package installer",
+I/flutter (20176):   "flags": 2,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "1",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{9a30833 com.google.android.packageinstaller}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Uninstalling notifications_example…"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Uninstalling notifications_example…",
+I/flutter (20176):   "when": 1569640132761,
+I/flutter (20176):   "channelId": "uninstalling",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card -2147483628
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{23567ee com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640134604,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.title": "Play security information update",
+I/flutter (20176):     "android.infoText": "0%",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{67bf48f com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "false"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640134604,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{ce4e31c com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640138015,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.title": "Play security information update",
+I/flutter (20176):     "android.infoText": "0%",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{e4f6b25 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "false"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640138015,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{e1414fa com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640140329,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.title": "Play security information update",
+I/flutter (20176):     "android.infoText": "0%",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{4d4aab com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "false"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640140329,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+I/flutter (20176): Removing card 0
+I/flutter (20176): Adding card 1713264746
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Slack",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{8066be3 com.Slack}",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (20176):     "android.title": "alexis, Maxime Bélanger, Annie Galarneau",
+I/flutter (20176):     "android.bigText": "Alexis Smirnov: sorry i don’t understand what you’re saying, do you mean that PWA is fine, but the way mobile PA is implemented forces us to be compliant with PCI?",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.summaryText": "Dialogue",
+I/flutter (20176):     "android.text": "Alexis Smirnov: sorry i don’t understand what you’re saying, do you mean that PWA is fine, but the way mobile PA is implemented forces us t
+I/flutter (20176): Adding card 1467797550
+I/flutter (20176): {
+I/flutter (20176):   "number": 2,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Slack",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{42d49e0 com.Slack}",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (20176):     "android.title": "(2) Jared Savage",
+I/flutter (20176):     "android.bigText": "100% not compliant on Maestro. Form data very accessible\nOn patient-app, it's less clear. We're using lib (https://github.com/fedebalderas/react-native-credit-card-input-fullpage) with very low volume (1 star on github). It renders native text inputs local to the app, but I think this is probably fine?",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.summaryText": "Dialogue",
+I/flutter (20176):     "android.text": "On patient-app, it's less clear
+I/flutter (20176): Adding card 1403438573
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Slack",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{70ae499 com.Slack}",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (20176):     "android.title": "Vanessa Jones",
+I/flutter (20176):     "android.bigText": "Hi John, can you add me to the Lucidchart Dialogue account?",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.summaryText": "Dialogue",
+I/flutter (20176):     "android.text": "Hi John, can you add me to the Lucidchart Dialogue account?"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "Hi John, can you add me to the Lucidchart Dialogue account?",
+I/flutter (20176):   "category": "msg",
+I/flutter (20176):   "priority": 1,
+I/flutter (20176):   "title": "Vanessa Jones",
+I/flutter (20176):   "when": 1569617699000,
+I/flutter (20176):   "channelId": "T129F61FC-1-messages_mentions",
+I/flutter (20176):
+I/flutter (20176): Adding card 1339985380
+I/flutter (20176): {
+I/flutter (20176):   "number": 3,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Slack",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{8a0235e com.Slack}",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (20176):     "android.title": "(3) Google Calendar (bot)",
+I/flutter (20176):     "android.bigText": "1 minute until this event: Data in Germany\n1 minute until this event: Wrap up the week\n1 minute until this event: Jared  John",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.summaryText": "Dialogue",
+I/flutter (20176):     "android.text": "1 minute until this event: Jared  John"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "1 minute until this event: Jared  John",
+I/flutter (20176):   "category": "msg",
+I/flutter (20176):   "priority": 1,
+I/flutter (20176):   "title": "(3) Google Calendar (bot)",
+I/flutter (20176):   "when": 1569614940000,
+I/flutter (20176): Adding card -21479847
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Slack",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{fa9e33f com.Slack}",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (20176):     "android.title": "Sonja Hiltunen",
+I/flutter (20176):     "android.bigText": "Hi 🙂 Is the architecture guild already a thing? Where can I find docs about this, or do they have a slack channel maybe?",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.summaryText": "Dialogue",
+I/flutter (20176):     "android.text": "Hi 🙂 Is the architecture guild already a thing? Where can I find docs about this, or do they have a slack channel maybe?"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "Hi 🙂 Is the architecture guild already a thing? Where can I find docs
+I/flutter (20176): Adding card 1589332979
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Slack",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{4d240c com.Slack}",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (20176):     "android.title": "Christy Okpo, Vanessa",
+I/flutter (20176):     "android.bigText": "Christy Okpo: thanks for the clarification!",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.summaryText": "Dialogue",
+I/flutter (20176):     "android.text": "Christy Okpo: thanks for the clarification!"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "Christy Okpo: thanks for the clarification!",
+I/flutter (20176):   "category": "msg",
+I/flutter (20176):   "priority": 1,
+I/flutter (20176):   "title": "Christy Okpo, Vanessa",
+I/flutter (20176):   "when": 1569614382005,
+I/flutter (20176):   "channelId": "T129F61FC-1-messages_mentions",
+I/flutter (20176):   "group": "T129F61FC"
+I/flutter (20176): }
+I/flutter (20176): Adding card -76035784
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Slack",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{f1c3155 com.Slack}",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (20176):     "android.title": "alexis, moaaz",
+I/flutter (20176):     "android.bigText": "Moaaz Sidat: Re: Discussion around longer term structure of platform teams came up in conversations with both of you last couple of weeks.\n\nPenned down my thoughts upon Alexis’ suggestion. Shared with only the two of you at the moment: https://www.notion.so/godialogue/Structures-of-platform-teams-e5a4be1b2bcb479a999086c371db56d8\n\nFeel free to use as much/as little. Happy to talk more/dive deeper.",
+I/flutter (20176):     "android.progressIndeterminate": "f
+I/flutter (20176): Adding card -479189907
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Slack",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{2c7176a com.Slack}",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (20176):     "android.title": "matt, jacob",
+I/flutter (20176):     "android.bigText": "Jacob Frackson: are we still meeting? if so, where?",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.summaryText": "Dialogue",
+I/flutter (20176):     "android.text": "Jacob Frackson: are we still meeting? if so, where?"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "Jacob Frackson: are we still meeting? if so, where?",
+I/flutter (20176):   "category": "msg",
+I/flutter (20176):   "priority": 1,
+I/flutter (20176):   "title": "matt, jacob",
+I/flutter (20176):   "when": 1569612708000,
+I/flutter (20176):   "channelId": "T129F61FC-1-messages_mentions",
+I/flutter (20176):   "group": "T129F61FC"
+I/flutter (20176): }
+I/flutter (20176): Adding card -1407372857
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Slack",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{de3745b com.Slack}",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (20176):     "android.title": "Gabriella Baciu",
+I/flutter (20176):     "android.bigText": "it was great interviewing with you",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.summaryText": "Dialogue",
+I/flutter (20176):     "android.text": "it was great interviewing with you"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "it was great interviewing with you",
+I/flutter (20176):   "category": "msg",
+I/flutter (20176):   "priority": 1,
+I/flutter (20176):   "title": "Gabriella Baciu",
+I/flutter (20176):   "when": 1569612451000,
+I/flutter (20176):   "channelId": "T129F61FC-1-messages_mentions",
+I/flutter (20176):   "group": "T129F61FC"
+I/flutter (20176): }
+I/flutter (20176): Adding card -80429957
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Slack",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{ae74f8 com.Slack}",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (20176):     "android.title": "Slackbot",
+I/flutter (20176):     "android.bigText": "You asked me to remind you about this message (\"I'll look up...\").",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.summaryText": "Dialogue",
+I/flutter (20176):     "android.text": "You asked me to remind you about this message (\"I'll look up...\")."
+I/flutter (20176):   },
+I/flutter (20176):   "text": "You asked me to remind you about this message (\"I'll look up...\").",
+I/flutter (20176):   "category": "msg",
+I/flutter (20176):   "priority": 1,
+I/flutter (20176):   "title": "Slackbot",
+I/flutter (20176):   "when": 1569529379000,
+I/flutter (20176):   "channelId": "T129F61FC-1-messa
+I/flutter (20176): Adding card 333
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Tesla",
+I/flutter (20176):   "flags": 106,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.title": "Onyx",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{1bb8dd1 com.teslamotors.tesla}",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.text": "Connected"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "Connected",
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Onyx",
+I/flutter (20176):   "when": 1569636873597,
+I/flutter (20176):   "channelId": "phone_key_service_channel",
+I/flutter (20176):   "group": "com.teslamotors.plugins.ble.BLE_SERVICE"
+I/flutter (20176): }
+I/flutter (20176): Adding card 1
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Amazon Kindle",
+I/flutter (20176):   "flags": 17,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{2b74036 com.amazon.kindle}",
+I/flutter (20176):     "android.text": "Bach, Rachel - Successfully downloaded.",
+I/flutter (20176):     "android.title": "Fortune's Pawn (Paradox Book 1)"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "Bach, Rachel - Successfully downloaded.",
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Fortune's Pawn (Paradox Book 1)",
+I/flutter (20176):   "when": 1569623110617,
+I/flutter (20176):   "channelId": "kindle_default_channel",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 103031932
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Google Play services",
+I/flutter (20176):   "flags": 272,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.title": "Unlock less with Smart Lock",
+I/flutter (20176):     "android.bigText": "Keep your device unlocked while it's being carried. Tap to set up.",
+I/flutter (20176):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{d5afb37 com.google.android.gms}",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.text": "Keep your device unlocked while it's being carried. Tap to set up."
+I/flutter (20176):   },
+I/flutter (20176):   "text": "Keep your device unlocked while it's being carried. Tap to set up.",
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Unlock less with Smart Lock",
+I/flutter (20176):   "when": 1569566163002,
+I/flutter (20176):   "channelId": "gmscore",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 10
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Netflix",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.title": "🔔 Reminder: New Season",
+I/flutter (20176):     "android.template": "android.app.Notification$BigPictureStyle",
+I/flutter (20176):     "android.picture": "android.graphics.Bitmap@1a360d",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{bd1e8a4 com.netflix.mediaclient}",
+I/flutter (20176):     "android.text": "Here's your reminder that Explained Season 2 is waiting for you."
+I/flutter (20176):   },
+I/flutter (20176):   "text": "Here's your reminder that Explained Season 2 is waiting for you.",
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "🔔 Reminder: New Season",
+I/flutter (20176):   "when": 1569533742533,
+I/flutter (20176):   "channelId": "messages_notitication_channel",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 9
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Netflix",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (20176):     "android.title": "Coming October 4th",
+I/flutter (20176):     "android.template": "android.app.Notification$BigPictureStyle",
+I/flutter (20176):     "android.picture": "android.graphics.Bitmap@15a13d3",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{2af29c2 com.netflix.mediaclient}",
+I/flutter (20176):     "android.summaryText": "Big Mouth Season 3 - Watch the trailer.",
+I/flutter (20176):     "android.text": "Big Mouth Season 3 - Watch the trailer."
+I/flutter (20176):   },
+I/flutter (20176):   "text": "Big Mouth Season 3 - Watch the trailer.",
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Coming October 4th",
+I/flutter (20176):   "when": 1569533471975,
+I/flutter (20176):   "channelId": "messages_notitication_channel",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Reddit",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.title": "Trending on r/TeslaModel3",
+I/flutter (20176):     "android.template": "android.app.Notification$BigPictureStyle",
+I/flutter (20176):     "android.picture": "android.graphics.Bitmap@3412609",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{d96eb10 com.reddit.frontpage}",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.text": "First test of Smart Summon and I’m blown 🤩"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "First test of Smart Summon and I’m blown 🤩",
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 2,
+I/flutter (20176):   "title": "Trending on r/TeslaModel3",
+I/flutter (20176):   "when": 1569635586191,
+I/flutter (20176):   "channelId": "notifications",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Reddit",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.title": "Trending on r/TeslaModel3",
+I/flutter (20176):     "android.template": "android.app.Notification$BigPictureStyle",
+I/flutter (20176):     "android.picture": "android.graphics.Bitmap@e281a2f",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{4a200e com.reddit.frontpage}",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.text": "First test of Smart Summon and I’m blown 🤩"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "First test of Smart Summon and I’m blown 🤩",
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 2,
+I/flutter (20176):   "title": "Trending on r/TeslaModel3",
+I/flutter (20176):   "when": 1569609641831,
+I/flutter (20176):   "channelId": "notifications",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "appName": "Reddit",
+I/flutter (20176):   "flags": 16,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.showChronometer": "false",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.showWhen": "true",
+I/flutter (20176):     "android.title": "Trending on r/TeslaModel3",
+I/flutter (20176):     "android.template": "android.app.Notification$BigPictureStyle",
+I/flutter (20176):     "android.picture": "android.graphics.Bitmap@1cd19c5",
+I/flutter (20176):     "android.progressMax": "0",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{e67a83c com.reddit.frontpage}",
+I/flutter (20176):     "android.progressIndeterminate": "false",
+I/flutter (20176):     "android.text": "V10.0 official video!"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "V10.0 official video!",
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 2,
+I/flutter (20176):   "title": "Trending on r/TeslaModel3",
+I/flutter (20176):   "when": 1569550152909,
+I/flutter (20176):   "channelId": "notifications",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 26
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 1,
+I/flutter (20176):   "flags": 2,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.tv.EXTENSIONS": "Bundle[mParcelledData.dataSize=168]",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{58c2f1a android}",
+I/flutter (20176):     "android.text": "Tap to turn off USB debugging",
+I/flutter (20176):     "android.title": "USB debugging connected"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "Tap to turn off USB debugging",
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "USB debugging connected",
+I/flutter (20176):   "when": 0,
+I/flutter (20176):   "channelId": "DEVELOPER",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 32
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 1,
+I/flutter (20176):   "flags": 2,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{b262a4b android}",
+I/flutter (20176):     "android.text": "Tap for more options.",
+I/flutter (20176):     "android.title": "Charging this device via USB"
+I/flutter (20176):   },
+I/flutter (20176):   "text": "Tap for more options.",
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Charging this device via USB",
+I/flutter (20176):   "when": 0,
+I/flutter (20176):   "channelId": "USB",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{aab2027 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640154772,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.title": "Play security information update",
+I/flutter (20176):     "android.infoText": "0%",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{3d2c2d4 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "false"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640154772,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{c11bc7d com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640159635,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.title": "Play security information update",
+I/flutter (20176):     "android.infoText": "0%",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{a98772 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "false"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640159635,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{39f97c3 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640164245,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.title": "Play security information update",
+I/flutter (20176):     "android.infoText": "0%",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{f033840 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "false"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640164245,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{8d9ed1f com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640167093,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.title": "Play security information update",
+I/flutter (20176):     "android.infoText": "0%",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{3986c com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "false"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640167093,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{980fe35 com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640171618,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+I/flutter (20176): Adding card 0
+I/flutter (20176): {
+I/flutter (20176):   "number": 0,
+I/flutter (20176):   "visibility": 0,
+I/flutter (20176):   "flags": 10,
+I/flutter (20176):   "extras": {
+I/flutter (20176):     "android.reduced.images": "true",
+I/flutter (20176):     "android.progress": "0",
+I/flutter (20176):     "android.progressMax": "100",
+I/flutter (20176):     "android.appInfo": "ApplicationInfo{b5e92ca com.android.providers.downloads}",
+I/flutter (20176):     "android.progressIndeterminate": "true",
+I/flutter (20176):     "android.title": "Play security information update"
+I/flutter (20176):   },
+I/flutter (20176):   "category": null,
+I/flutter (20176):   "priority": 0,
+I/flutter (20176):   "title": "Play security information update",
+I/flutter (20176):   "when": 1569640174503,
+I/flutter (20176):   "channelId": "active",
+I/flutter (20176):   "group": null
+I/flutter (20176): }
+I/flutter (20176): Removing card 0
+Application finished.
+Exited (sigterm)

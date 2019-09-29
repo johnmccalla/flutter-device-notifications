@@ -1,0 +1,780 @@
+Restarted application in 1,681ms.
+D/DeviceNotificationsPlugin(18314): Event sink cancelled
+D/DeviceNotificationsPlugin(18314): Event sink listening
+D/DeviceNotificationsService(18314): Start command received, 33 notifications are active
+D/DeviceNotificationsService(18314): Sending notification 2131365262
+D/DeviceNotificationsService(18314): Sending notification 1119718170
+D/DeviceNotificationsService(18314): Sending notification 1468687628
+D/DeviceNotificationsService(18314): Sending notification 1603447607
+D/DeviceNotificationsService(18314): Sending notification -80429957
+D/DeviceNotificationsService(18314): Sending notification -1380965649
+D/DeviceNotificationsService(18314): Sending notification -479189907
+D/DeviceNotificationsService(18314): Sending notification 333
+D/DeviceNotificationsService(18314): Sending notification 10
+D/DeviceNotificationsService(18314): Sending notification 9
+D/DeviceNotificationsService(18314): Sending notification 0
+I/chatty  (18314): uid=10306(org.johnmccalla.plugins.device_notifications_example) identical 1 line
+D/DeviceNotificationsService(18314): Sending notification 0
+D/DeviceNotificationsService(18314): Sending notification 163600703
+D/DeviceNotificationsService(18314): Sending notification 0
+D/DeviceNotificationsService(18314): Sending notification 1434192441
+D/DeviceNotificationsService(18314): Sending notification 1061667419
+D/DeviceNotificationsService(18314): Sending notification 1148811822
+D/DeviceNotificationsService(18314): Sending notification -597685428
+D/DeviceNotificationsService(18314): Sending notification -1073308734
+D/DeviceNotificationsService(18314): Sending notification -369750117
+D/DeviceNotificationsService(18314): Sending notification 343520041
+D/DeviceNotificationsService(18314): Sending notification -912896388
+D/DeviceNotificationsService(18314): Sending notification 1050453304
+D/DeviceNotificationsService(18314): Sending notification 1064892511
+D/DeviceNotificationsService(18314): Sending notification 590041010
+D/DeviceNotificationsService(18314): Sending notification 1791414788
+D/DeviceNotificationsService(18314): Sending notification -2114501895
+D/DeviceNotificationsService(18314): Sending notification -1841220805
+D/DeviceNotificationsService(18314): Sending notification 1910931065
+D/DeviceNotificationsService(18314): Sending notification -706464057
+D/DeviceNotificationsService(18314): Sending notification 26
+D/DeviceNotificationsService(18314): Sending notification 32
+D/NotificationReceiver(18314): Received intent Intent { act=device_notification_event flg=0x10 (has extras) }
+I/chatty  (18314): uid=10306(org.johnmccalla.plugins.device_notifications_example) identical 31 lines
+D/NotificationReceiver(18314): Received intent Intent { act=device_notification_event flg=0x10 (has extras) }
+I/flutter (18314): Adding card 2131365262
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 1,
+I/flutter (18314):   "flags": 16,
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.title": "Fitbit",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{ea7c05c com.fitbit.FitbitMobile}",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.text": "Time to start winding down for bed"
+I/flutter (18314):   },
+I/flutter (18314):   "category": "reminder",
+I/flutter (18314):   "priority": 1,
+I/flutter (18314):   "when": 1569555000058,
+I/flutter (18314):   "channelId": "1100_bedtimeReminder",
+I/flutter (18314):   "group": null
+I/flutter (18314): }
+I/flutter (18314): Adding card 1119718170
+I/flutter (18314): {
+I/flutter (18314):   "number": 2,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 528,
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$InboxStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{299543a com.Slack}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=216]",
+I/flutter (18314):     "android.title": "2 new notifications",
+I/flutter (18314):     "android.textLines": "[Ljava.lang.CharSequence;@d311f65",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.summaryText": "Dialogue",
+I/flutter (18314):     "android.text": "Dialogue"
+I/flutter (18314):   },
+I/flutter (18314):   "category": "msg",
+I/flutter (18314):   "priority": 1,
+I/flutter (18314):   "when": 1569533899278,
+I/flutter (18314):   "channelId": "T129F61FC-1-messages_mentions",
+I/flutter (18314):   "group": "T129F61FC"
+I/flutter (18314): }
+I/flutter (18314): Adding card 1468687628
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 16,
+I/flutter (18314):   "tickerText": "Dialogue, Thread in #tech: Griff George: Haha yes, perfect. Thanks John! :)",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{1ceb8eb com.Slack}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (18314):     "android.title": "Thread in #tech",
+I/flutter (18314):     "android.bigText": "Griff George: Haha yes, perfect. Thanks John! :)",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.summaryText": "Dialogue",
+I/flutter (18314):     "android.text": "Griff George: Haha yes, perfect. Thanks John! :)"
+I/flutter (18314):   },
+I/flutter (18314):   "category": "msg",
+I/flutter (18314):   "priority": 1,
+I/flutter (18314):   "when": 1569533899278,
+I/flutter (18314):   "channelId": "T129F61FC-1-messages_mentions",
+I/flutter (18314):   "group": "T129F61FC"
+I/flutter (18314): }
+I/flutter (18314): Adding card 1603447607
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 16,
+I/flutter (18314):   "tickerText": "Dialogue, Thread in #data: Jacob Frackson: @john",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{21e8648 com.Slack}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (18314):     "android.title": "Thread in #data",
+I/flutter (18314):     "android.bigText": "Jacob Frackson: @john",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.summaryText": "Dialogue",
+I/flutter (18314):     "android.text": "Jacob Frackson: @john"
+I/flutter (18314):   },
+I/flutter (18314):   "category": "msg",
+I/flutter (18314):   "priority": 1,
+I/flutter (18314):   "when": 1569530580051,
+I/flutter (18314):   "channelId": "T129F61FC-1-messages_mentions",
+I/flutter (18314):   "group": "T129F61FC"
+I/flutter (18314): }
+I/flutter (18314): Adding card -80429957
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 16,
+I/flutter (18314):   "tickerText": "Dialogue, Slackbot: You asked me to remind you about this message (\"I'll look up...\").",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{7994ce1 com.Slack}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (18314):     "android.title": "Slackbot",
+I/flutter (18314):     "android.bigText": "You asked me to remind you about this message (\"I'll look up...\").",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.summaryText": "Dialogue",
+I/flutter (18314):     "android.text": "You asked me to remind you about this message (\"I'll look up...\")."
+I/flutter (18314):   },
+I/flutter (18314):   "category": "msg",
+I/flutter (18314):   "priority": 1,
+I/flutter (18314):   "when": 1569529379000,
+I/flutter (18314):   "channelId": "T129F61FC-1-messages_mentions",
+I/flutter (18314):   "
+I/flutter (18314): Adding card -1380965649
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 16,
+I/flutter (18314):   "tickerText": "Dialogue, #tech: Adrien Gaudon: Guys, can someone update 1password and all my team members to Maestro Vault? @alexis @john?",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{8b87a06 com.Slack}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (18314):     "android.title": "#tech",
+I/flutter (18314):     "android.bigText": "Adrien Gaudon: Guys, can someone update 1password and all my team members to Maestro Vault? @alexis @john?",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.summaryText": "Dialogue",
+I/flutter (18314):     "android.text": "Adrien Gaudon: Guys, can someone update 1password and all my team members to Maestro Vault? @alexis @john?"
+I/flutter (18314):   },
+I/flutter (18314):   "cat
+I/flutter (18314): Adding card -479189907
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 16,
+I/flutter (18314):   "tickerText": "Dialogue, matt, jacob: Jacob Frackson: From a quick session about data in EU concerns: https://www.notion.so/godialogue/Data-Strategy-for-EU-3259d4813d8e4bf0b856c5fc3b6050da",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{25df8c7 com.Slack}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=588]",
+I/flutter (18314):     "android.title": "matt, jacob",
+I/flutter (18314):     "android.bigText": "Jacob Frackson: From a quick session about data in EU concerns: https://www.notion.so/godialogue/Data-Strategy-for-EU-3259d4813d8e4bf0b856c5fc3b6050da",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.summaryText": "Dialogue",
+I/flutter (18314):     "android.text": "Jacob Frackson: Fro
+I/flutter (18314): Adding card 333
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 106,
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.title": "Onyx",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{4b9bef4 com.teslamotors.tesla}",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.text": "Connected"
+I/flutter (18314):   },
+I/flutter (18314):   "category": null,
+I/flutter (18314):   "priority": 0,
+I/flutter (18314):   "when": 1569560564228,
+I/flutter (18314):   "channelId": "phone_key_service_channel",
+I/flutter (18314):   "group": "com.teslamotors.plugins.ble.BLE_SERVICE"
+I/flutter (18314): }
+I/flutter (18314): Adding card 10
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 16,
+I/flutter (18314):   "tickerText": "Here's your reminder that Explained Season 2 is waiting for you.",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.title": "🔔 Reminder: New Season",
+I/flutter (18314):     "android.template": "android.app.Notification$BigPictureStyle",
+I/flutter (18314):     "android.picture": "android.graphics.Bitmap@f523092",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{ffcd61d com.netflix.mediaclient}",
+I/flutter (18314):     "android.text": "Here's your reminder that Explained Season 2 is waiting for you."
+I/flutter (18314):   },
+I/flutter (18314):   "category": null,
+I/flutter (18314):   "priority": 0,
+I/flutter (18314):   "when": 1569533742533,
+I/flutter (18314):   "channelId": "messages_notitication_channel",
+I/flutter (18314):   "group": null
+I/flutter (18314): }
+I/flutter (18314): Adding card 9
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 16,
+I/flutter (18314):   "tickerText": "Big Mouth Season 3 - Watch the trailer.",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.title": "Coming October 4th",
+I/flutter (18314):     "android.template": "android.app.Notification$BigPictureStyle",
+I/flutter (18314):     "android.picture": "android.graphics.Bitmap@e2dd660",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{3b75a63 com.netflix.mediaclient}",
+I/flutter (18314):     "android.summaryText": "Big Mouth Season 3 - Watch the trailer.",
+I/flutter (18314):     "android.text": "Big Mouth Season 3 - Watch the trailer."
+I/flutter (18314):   },
+I/flutter (18314):   "category": null,
+I/flutter (18314):   "priority": 0,
+I/flutter (18314):   "when": 1569533471975,
+I/flutter (18314):   "channelId": "messages_notitication_channel",
+I/flutter (18314):   "group": null
+I/flutter (18314): }
+I/flutter (18314): Adding card 0
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 16,
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.title": "Trending on r/TeslaModel3",
+I/flutter (18314):     "android.template": "android.app.Notification$BigPictureStyle",
+I/flutter (18314):     "android.picture": "android.graphics.Bitmap@5ec3de",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{f15b719 com.reddit.frontpage}",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.text": "V10.0 official video!"
+I/flutter (18314):   },
+I/flutter (18314):   "category": null,
+I/flutter (18314):   "priority": 2,
+I/flutter (18314):   "when": 1569550152909,
+I/flutter (18314):   "channelId": "notifications",
+I/flutter (18314):   "group": null
+I/flutter (18314): }
+I/flutter (18314): Adding card 0
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 16,
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.title": "Trending on r/TeslaModel3",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{3bb39bf com.reddit.frontpage}",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.text": "How do I see which songs I've 'thumbs up' in slacker?"
+I/flutter (18314):   },
+I/flutter (18314):   "category": null,
+I/flutter (18314):   "priority": 2,
+I/flutter (18314):   "when": 1569523366147,
+I/flutter (18314):   "channelId": "notifications",
+I/flutter (18314):   "group": null
+I/flutter (18314): }
+I/flutter (18314): Adding card 0
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 536,
+I/flutter (18314):   "tickerText": "Abstract Ocean",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{b09f88c com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@5a4bb0ab]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Abstract Ocean",
+I/flutter (18314):     "android.bigText": "Share your thoughts with us - Abstract Ocean\nIf this email is not displaying correctly, please Click here to fill out the form.\nHello John McCalla, \nPlease fill out the form below and submit your site review, it would be very much appreciated.\nRate:\n★ ★★ ★★★ ★★★★ ★★★★★\nReview Title:\nReview:\nSubmit Your Review\nRecommende
+I/flutter (18314): Adding card 163600703
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Abstract Ocean",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{541abd5 com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@5a4bb0ab]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Abstract Ocean",
+I/flutter (18314):     "android.bigText": "Share your thoughts with us - Abstract Ocean\nIf this email is not displaying correctly, please Click here to fill out the form.\nHello John McCalla, \nPlease fill out the form below and submit your site review, it would be very much appreciated.\nRate:\n★ ★★ ★★★ ★★★★ ★★★★★\nReview Title:\nReview:\nSubmit Your Review\nRecommended
+I/flutter (18314): Adding card 0
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 536,
+I/flutter (18314):   "tickerText": "16 new messages",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@1c4e37e8, android.app.Person@eba2cadf, android.app.Person@5334c426, android.app.Person@83f73ecf, android.app.Person@b88e3d05, android.app.Person@3b3bcfd, android.app.Person@f1216cbb, android.app.Person@f3a3028d, android.app.Person@e3bcd4dc, android.app.Person@ced6fa19, android.app.Person@8da8bac, android.app.Person@132ec3d7, android.app.Person@bfb0e8b8, android.app.Person@70302800, android.app.Person@cbcce462, android.app.Person@391055c4]",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.title": "16 new messages",
+I/flutter (18314):     "android.subText": "john.mccalla@dialogue.co",
+I/flutter (18314):     "android.template": "android.app.Notification$InboxStyle",
+I/flutter (18314):     "android.textLines": "[Ljava.lang.CharSequence;@b0f3fea",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{3f
+I/flutter (18314): Adding card 1434192441
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Fabric",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{fa41178 com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@391055c4]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Fabric",
+I/flutter (18314):     "android.bigText": "Dialogue Daily Summary for September 25th\nYour Daily Summary for September 25, 2019\n🌟\nTL;DR: Users can't take their eyes off Dialogue for Android!\nTime in App per User is up 139% from a week ago!\nDialogue Android\nco.dialogue.patient.prod\n165\n+18%\nMonthly Active\n9\n-82%\nDaily Active\n0\nDaily New\n100.0%\nCrash-free Users\n30\n-72%\nTotal Sessions\n4:10m\n+139%\
+I/flutter (18314): Adding card 1061667419
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Alexis, mark.dermer, Zack",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{fe3051 com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@1c4e37e8, android.app.Person@83f73ecf, android.app.Person@3b3bcfd]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Alexis, mark.dermer, Zack",
+I/flutter (18314):     "android.bigText": "Fwd: suivi , différentes questions et tarification\nWorks for me. I can support as needed but I don’t need to attend sine it will be a big group.",
+I/flutter (18314):     "android.subText": "john.mccalla@dialogue.co",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.text": "Fwd: suivi , d
+I/flutter (18314): Adding card 1148811822
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Alexis, Maxime, Dialogue",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{e9970b6 com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@83f73ecf, android.app.Person@bfb0e8b8, android.app.Person@cbcce462]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Alexis, Maxime, Dialogue",
+I/flutter (18314):     "android.bigText": "Fwd: Dialogue.co: Invoice 75057-09252019 from Datadog due on 10/26/2019\nOk, thanks for the clarification. ",
+I/flutter (18314):     "android.subText": "john.mccalla@dialogue.co",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.text": "Fwd: Dialogue.co: Invoice 75057-09252019 from Datadog
+I/flutter (18314): Adding card -597685428
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Officevibe",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{a70a1b7 com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@e3bcd4dc]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Officevibe",
+I/flutter (18314):     "android.bigText": "Your team submitted new feedback!\n \nHi John, here’s your team’s latest feedback as of September 26, 2019\nSurveys and Suggestion Box\nYou have 9 unread feedback. Be sure to click below to view all your conversations!\nI have too many different things to work on right now and no way of properly managing them. Almost all of my tasks are r...\nJacob Frackson - 09
+I/flutter (18314): Adding card -1073308734
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Anna Chif",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{dc4cd24 com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@5334c426]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Anna Chif",
+I/flutter (18314):     "android.bigText": "Fwd: Dev team extension for Dialogue\nIn case this is of interest \nAnna Chif\nCo-founder, Strategy & Product\ndialogue.co\nBegin forwarded message:\n> From: Johan Berg <johan.berg@kitrum.com>\n> Date: September 25, 2019 at 11:54:47 AM GMT-4\n> To: anna@dialogue.co\n> Subject: Dev team extension for Dialogue\n>\n> Hi Anna,\n>\n> I work with companies from Canada just
+I/flutter (18314): Adding card -369750117
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Collage HR",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{124808d com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@70302800]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Collage HR",
+I/flutter (18314):     "android.bigText": "Reminder: Time off requests assigned to you\nRespond to 1 time off request\nHi John , there is a pending time off request from Robert LeBrocq\nTime off requests:\nSick leave for Robert LeBrocq: Sep 26\nRespond to requests\nCollage Technologies, Inc. | 30 Duncan St., Suite 301, Toronto, ON, M5V 2C3\nTo unsubscribe from these emails, click here",
+I/flutter (18314):     "android.subText"
+I/flutter (18314): Adding card 343520041
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Collage HR",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{5c3e242 com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@70302800]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Collage HR",
+I/flutter (18314):     "android.bigText": "New Time Off Request\nRobert LeBrocq has requested 1 day sick leave\nSeptember 26, 2019 - September 26, 2019\nThis is the first stage of time off approval (out of two)\nRobert LeBrocq commented:\ncold\nRespond to request\nCollage Technologies, Inc. | 30 Duncan St., Suite 301, Toronto, ON, M5V 2C3\nTo unsubscribe from these emails, click here",
+I/flutter (18314):     "android.subText":
+I/flutter (18314): Adding card -912896388
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "jessica.soulbane",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{463a253 com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@8da8bac]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "jessica.soulbane",
+I/flutter (18314):     "android.bigText": "Maestro Re-fun-ment\nHi Team, is it possible to have this meeting in the kitchen in order to free the room for an interview?\nMaestro Re-fun-ment\nWhen\nFri Sep 27, 2019 9am – 10:30am Eastern Time - Toronto\nWhere\nDIALOGUE-Florence Nightingale (map)\nWho\n•\nscrum@dialogue.co - organizer\n•\nrobert.lebrocq@dialogue.co\n•\nsherry.ghafarpour@dialogu
+I/flutter (18314): Adding card 1050453304
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Vanessa Jones (Jira)",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{9139790 com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@ced6fa19]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Vanessa Jones (Jira)",
+I/flutter (18314):     "android.bigText": "[JIRA] (DIA-5431) Silkroad: Adjust API to include device_id field in message attachments\n \nVanessa Jones made 3 updates. \nVanessa Jones made 3 updates.\nDialogue Product\n/  \nDIA-5431\nSilkroad: Adjust API to include device_id field in message attachments\nVanessa Jones 4:22 PM EDT\nStory Points:\n3\nLabels:\nNTH Product Robustness Silkr
+I/flutter (18314): Adding card 1064892511
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Sheri Bolling",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{ee59889 com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@132ec3d7]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Sheri Bolling",
+I/flutter (18314):     "android.bigText": "Velocity: September Discount\nHi John, \nFollowing up here, I want to make sure you saw my last email about the September Discount that we are offering. \nAre you planning to activate your subscription this month? \nWould love to hear from you!",
+I/flutter (18314):     "android.subText": "john.mccalla@dialogue.co",
+I/flutter (18314):     "android.progressIndeterminate": "false",
+I/flutter (18314):     "android.tex
+I/flutter (18314): Adding card 590041010
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Cynthia Iaboni",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{f31e08e com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@f3a3028d]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Cynthia Iaboni",
+I/flutter (18314):     "android.bigText": "Fwd: Dialogue at ConUHacks V - Montreal's Biggest Hackathon\nAny value in participating to this? \n> Begin forwarded message:\n>\n> From: sponsorship@hackconcordia.com\n> Subject: Dialogue at ConUHacks V - Montreal's Biggest Hackathon\n> Date: September 24, 2019 at 11:46:46 AM GMT-4\n> To: cynthia.iaboni@dialogue.co\n>\n> Hello Cynthia,\n>\n> My name is Ferd
+I/flutter (18314): Adding card 1791414788
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Nicolò Francesco Bernardi",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{67c10af com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@eba2cadf]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Nicolò Francesco Bernardi",
+I/flutter (18314):     "android.bigText": "Follow up from Insight program Session 2\nDear participants,\nI much appreciated our session yesterday. \nIn the spirit of supporting your ongoing reflections and training, I'm enclosing a guided script for the five breaths practice we did yesterday and a .pdf version of the mindful emailing sheet.\nI will be happy to answer any quest
+I/flutter (18314): Adding card -2114501895
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Dialogue (via Crashlytic.",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{6429cbc com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@f1216cbb]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Dialogue (via Crashlytic.",
+I/flutter (18314):     "android.bigText": "Dialogue Dev v1.1.13-201909242013 (13) for Android is ready to test\nDialogue Dev\nv1.1.13-201909242013 (13)\nDownload the latest build of Dialogue Dev by tapping the button below on your mobile device.\nYou can also use the Crashlytics icon on your home screen to download builds of all the apps you’re testing.\nFabric, powered by Goog
+I/flutter (18314): Adding card -1841220805
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Officevibe",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{b863445 com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@e3bcd4dc]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Officevibe",
+I/flutter (18314):     "android.bigText": "Your team submitted new feedback!\n \nHi John, here’s your team’s latest feedback as of September 24, 2019\nCustom Polls\nYou have 1 unread feedback. Be sure to click below to view all your conversations!\nMentorship on how to advance as a developer\nAnonymous employee - 09/22/2019\nView All Feedback →\nSurveys and Suggestion Box\nYou have 1 unread feedback. B
+I/flutter (18314): Adding card 1910931065
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Hubert Gagnon-Lamonde",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{e6f779a com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@b88e3d05]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Hubert Gagnon-Lamonde",
+I/flutter (18314):     "android.bigText": "Canceled event with note: PMs sync @ Fri Sep 27, 2019 1:30pm - 1:55pm (EDT) (john.mccalla@dialogue.co)\nThis event has been canceled and removed from your calendar with this note:\n\"We have PEMT offsite to align already\"\nPMs sync\nGoal:\nAlignment on the product team's Q2 priorities and make sure to highlight any team's dependencies\nAgenda:\
+I/flutter (18314): Adding card -706464057
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 0,
+I/flutter (18314):   "flags": 24,
+I/flutter (18314):   "tickerText": "Collage HR",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.progress": "0",
+I/flutter (18314):     "android.template": "android.app.Notification$BigTextStyle",
+I/flutter (18314):     "android.progressMax": "0",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{70308cb com.google.android.gm}",
+I/flutter (18314):     "android.showChronometer": "false",
+I/flutter (18314):     "android.people.list": "[android.app.Person@70302800]",
+I/flutter (18314):     "android.showWhen": "true",
+I/flutter (18314):     "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
+I/flutter (18314):     "android.wearable.EXTENSIONS": "Bundle[mParcelledData.dataSize=1580]",
+I/flutter (18314):     "android.title": "Collage HR",
+I/flutter (18314):     "android.bigText": "Reminder: Time off requests assigned to you\nRespond to 1 time off request\nHi John , there is a pending time off request from Dan Amyot\nTime off requests:\nVacations for Dan Amyot: Dec 24 - Dec 31\nRespond to requests\nCollage Technologies, Inc. | 30 Duncan St., Suite 301, Toronto, ON, M5V 2C3\nTo unsubscribe from these emails, click here",
+I/flutter (18314):     "android.subText":
+I/flutter (18314): Adding card 26
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 1,
+I/flutter (18314):   "flags": 2,
+I/flutter (18314):   "tickerText": "USB debugging connected",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.tv.EXTENSIONS": "Bundle[mParcelledData.dataSize=168]",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{fac8a8 android}",
+I/flutter (18314):     "android.text": "Tap to turn off USB debugging",
+I/flutter (18314):     "android.title": "USB debugging connected"
+I/flutter (18314):   },
+I/flutter (18314):   "category": null,
+I/flutter (18314):   "priority": 0,
+I/flutter (18314):   "when": 0,
+I/flutter (18314):   "channelId": "DEVELOPER",
+I/flutter (18314):   "group": null
+I/flutter (18314): }
+I/flutter (18314): Adding card 32
+I/flutter (18314): {
+I/flutter (18314):   "number": 0,
+I/flutter (18314):   "visibility": 1,
+I/flutter (18314):   "flags": 2,
+I/flutter (18314):   "tickerText": "Charging this device via USB",
+I/flutter (18314):   "extras": {
+I/flutter (18314):     "android.reduced.images": "true",
+I/flutter (18314):     "android.appInfo": "ApplicationInfo{ddacfc1 android}",
+I/flutter (18314):     "android.text": "Tap for more options.",
+I/flutter (18314):     "android.title": "Charging this device via USB"
+I/flutter (18314):   },
+I/flutter (18314):   "category": null,
+I/flutter (18314):   "priority": 0,
+I/flutter (18314):   "when": 0,
+I/flutter (18314):   "channelId": "USB",
+I/flutter (18314):   "group": null
+I/flutter (18314): }
+
+[38;5;248m════════ Exception caught by widgets library ═══════════════════════════════════[39;49m
+[38;5;244mThe following assertion was thrown building:[39;49m
+A non-null String must be provided to a Text widget.
+'package:flutter/src/widgets/text.dart':
+Failed assertion: line 269 pos 10: 'data != null'
+
+
+[38;5;248mEither the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause.
+In either case, please report this assertion by filing a bug on GitHub:
+  https://github.com/flutter/flutter/issues/new?template=BUG.md
+[39;49m
+
+[38;5;244mWhen the exception was thrown, this was the stack[39;49m
+[38;5;244m#2      new Text[39;49m
+[38;5;248m#3      _MyAppState.buildListTile[39;49m
+[38;5;248m#4      _MyAppState.build.<anonymous closure>[39;49m
+[38;5;244m#5      SliverChildBuilderDelegate.build[39;49m
+[38;5;244m#6      SliverMultiBoxAdaptorElement._build.<anonymous closure>[39;49m
+[38;5;244m...[39;49m
+[38;5;248m════════════════════════════════════════════════════════════════════════════════[39;49m
+
+[38;5;248m════════ Exception caught by widgets library ═══════════════════════════════════[39;49m
+[38;5;244mThe following assertion was thrown building:[39;49m
+A non-null String must be provided to a Text widget.
+'package:flutter/src/widgets/text.dart':
+Failed assertion: line 269 pos 10: 'data != null'
+
+
+[38;5;248mEither the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause.
+In either case, please report this assertion by filing a bug on GitHub:
+  https://github.com/flutter/flutter/issues/new?template=BUG.md
+[39;49m
+
+[38;5;244mWhen the exception was thrown, this was the stack[39;49m
+[38;5;244m#2      new Text[39;49m
+[38;5;248m#3      _MyAppState.buildListTile[39;49m
+[38;5;248m#4      _MyAppState.build.<anonymous closure>[39;49m
+[38;5;244m#5      SliverChildBuilderDelegate.build[39;49m
+[38;5;244m#6      SliverMultiBoxAdaptorElement._build.<anonymous closure>[39;49m
+[38;5;244m...[39;49m
+[38;5;248m════════════════════════════════════════════════════════════════════════════════[39;49m
+Reloaded 1 of 469 libraries in 908ms.
+Reloaded 1 of 469 libraries in 520ms.
