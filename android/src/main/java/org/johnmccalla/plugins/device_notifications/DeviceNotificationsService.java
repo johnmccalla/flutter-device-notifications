@@ -31,10 +31,12 @@ public class DeviceNotificationsService extends NotificationListenerService {
     // public static final String ACTION_REMOVED = "removed";
     public static final String INTENT_EVENT = "event";
     public static final String EVENT_ID = "id";
+    public static final String EVENT_KEY = "key";
     public static final String EVENT_ACTION = "action";
     public static final String EVENT_NOTIFICATION = "notification";
     public static final String ACTION_POSTED = "posted";
     public static final String ACTION_REMOVED = "removed";
+    public static final String ACTION_LISTED = "listed";
 
     private boolean connected = false;
 
@@ -58,8 +60,8 @@ public class DeviceNotificationsService extends NotificationListenerService {
             StatusBarNotification[] notifications = getActiveNotifications();
             Log.d(TAG, "Start command received, " + notifications.length + " notifications are active");
             for (StatusBarNotification sbn : notifications) {
-                Log.d(TAG, "Sending notification " + sbn.getId());
-                sendNotification(sbn);
+                Log.d(TAG, "Listed notification: " + sbn.getKey());
+                sendNotification(ACTION_LISTED, sbn);
             }
         }
         else {
@@ -73,8 +75,8 @@ public class DeviceNotificationsService extends NotificationListenerService {
      */
     @Override
     public void onNotificationPosted(StatusBarNotification sbn) {
-        Log.d(TAG, "Posted notification " + sbn.getId());
-        sendNotification(sbn);
+        Log.d(TAG, "Posted notification: " + sbn.getKey());
+        sendNotification(ACTION_POSTED, sbn);
     }
 
     /**
@@ -82,10 +84,11 @@ public class DeviceNotificationsService extends NotificationListenerService {
      */
     @Override
     public void onNotificationRemoved(StatusBarNotification sbn) {
-        Log.d(TAG, "Removing notification " + sbn.getId());
+        Log.d(TAG, "Removed notification " + sbn.getKey());
         Intent intent = new Intent(INTENT);
         HashMap<String, Object> event = new HashMap<>();
         event.put(EVENT_ID, sbn.getId());
+        event.put(EVENT_KEY, sbn.getKey());
         event.put(EVENT_ACTION, ACTION_REMOVED);
         intent.putExtra(INTENT_EVENT, event);
         // intent.putExtra(INTENT_ID, sbn.getId());
@@ -98,11 +101,12 @@ public class DeviceNotificationsService extends NotificationListenerService {
      * that will be broadcast and caught by the main app's activity. Nested
      * structures are not supported for now and will be "toString'ed".
      */
-    private void sendNotification(StatusBarNotification sbn) {
+    private void sendNotification(String action, StatusBarNotification sbn) {
         final Intent intent = new Intent(INTENT);
         final HashMap<String, Object> event = new HashMap<>();
         event.put(EVENT_ID, sbn.getId());
-        event.put(EVENT_ACTION, ACTION_POSTED);
+        event.put(EVENT_KEY, sbn.getKey());
+        event.put(EVENT_ACTION, action);
 
         Notification n = sbn.getNotification();
         HashMap<String, Object> notification = new HashMap<>();
@@ -124,9 +128,7 @@ public class DeviceNotificationsService extends NotificationListenerService {
                 }
                 Drawable appIcon = pm.getApplicationIcon(appInfo);
                 if (appIcon != null) {
-                    Log.d(TAG, "App icon type: " + appIcon.getClass());
                     if (appIcon instanceof AdaptiveIconDrawable) {
-                        Log.d(TAG, "using fopreground drawable");
                         appIcon = ((AdaptiveIconDrawable)appIcon).getForeground();
                     }
                     notification.put("appIcon", serializeDrawable(appIcon));
@@ -135,7 +137,6 @@ public class DeviceNotificationsService extends NotificationListenerService {
 
             final Icon largeIcon = (Icon) n.extras.get("android.largeIcon");
             if (largeIcon != null) {
-                Log.d(TAG, "large icon type: " + largeIcon.getClass());
                 notification.put("icon", serializeDrawable(largeIcon.loadDrawable(getApplicationContext())));
             }
 

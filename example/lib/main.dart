@@ -13,7 +13,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   DeviceNotificationStream _stream;
   StreamSubscription<DeviceNotificationEvent> _subscription;
-  Map<int, DeviceNotification> _notifications;
+  List<DeviceNotification> _notifications = new List();
 
   Map<String, IconData> categoryIcons = {
     'email': Icons.email,
@@ -25,7 +25,6 @@ class _MyAppState extends State<MyApp> {
   void initState() {
     super.initState();
     initPlatformState();
-    _notifications = new Map();
   }
 
   // Platform messages are asynchronous, so we initialize in an async method.
@@ -35,22 +34,19 @@ class _MyAppState extends State<MyApp> {
   }
 
   void onDeviceNotificationEvent(DeviceNotificationEvent event) {
-    if (event.action == 'posted' && !event.notification.isGroupSummary()) {
-      print('Adding card ${event.id}');
-      setState(() {
-        _notifications[event.id] = event.notification;
-      });
-    }
-    else if (event.action == 'removed') {
-      print('Removing card ${event.id}');
-      setState(() {
-        _notifications.remove(event.id);
-      });
-    }
+    print('Device notification event ${event.action}, key: ${event.key}');
+    setState(() {
+      _notifications.removeWhere((n) => event.key == n.key);
+      if (event.action != 'removed') {
+        if (!event.notification.isGroupSummary()) {
+          _notifications.add(event.notification);
+        }
+      }
+    });
   }
 
   Widget buildNotificationCard(BuildContext context, int index) {
-    var notification = _notifications[_notifications.keys.elementAt(index)];
+    var notification = _notifications[index];
     return Card(
       elevation: 4.0,
       child: InkWell(
@@ -150,6 +146,14 @@ class NotificationDetailsRoute extends StatelessWidget {
           //   subtitle: Text('icon')
           // ),
           //Divider(),
+          ListTile(
+            title: Text(_notification.id.toString()),
+            subtitle: Text('id')
+          ),
+          ListTile(
+            title: Text(_notification.key),
+            subtitle: Text('key')
+          ),
           ListTile(
             title: Text(_notification.number.toString()),
             subtitle: Text('number')

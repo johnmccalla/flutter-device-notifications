@@ -1,5 +1,4 @@
 import 'dart:async';
-import 'dart:convert';
 import 'dart:io' show Platform;
 import 'dart:typed_data';
 
@@ -8,12 +7,14 @@ import 'package:flutter/services.dart';
 class DeviceNotification {
   static const int FLAG_GROUP_SUMMARY = 0x00000200;
 
-  String category;
+  int id;
+  String key;
   int priority;
   int when;
   int number;
   int visibility;
   int flags;
+  String category;
   String appName;
   Uint8List appIcon;
   String title;
@@ -22,10 +23,10 @@ class DeviceNotification {
   Map extras;
   String channelId;
   String group;
-  Map _unparsed;
 
-  DeviceNotification(Map n) {
-    _unparsed = n;
+  DeviceNotification(int id, String key, Map n) {
+    this.id = id;
+    this.key = key;
     extras = n['extras'];
     category = n['category'];
     priority = n['priority'];
@@ -49,15 +50,17 @@ class DeviceNotification {
 
 class DeviceNotificationEvent {
   int id;
+  String key;
   String action;
   DeviceNotification notification;
 
   DeviceNotificationEvent(Map e) {
     id = e['id'];
+    key = e['key'];
     action = e['action'];
     var n = e['notification'];
     if (n != null) {
-      notification = new DeviceNotification(n);
+      notification = new DeviceNotification(id, key, n);
     }
   }
 }
